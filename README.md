@@ -1,6 +1,6 @@
 # 📚 Online Bookstore Database (PostgreSQL)  
 
-## 📝 Project: Days-SQL-Micro-Course-Assignment 
+## 📝 Project: SQL-Micro-Course-Assignment 
 
 This project involves designing and querying an **Online Bookstore Database** using **PostgreSQL**. 
 The database includes tables for **books, customers, and orders**, 
